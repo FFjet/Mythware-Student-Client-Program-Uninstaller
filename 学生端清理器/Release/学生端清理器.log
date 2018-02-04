@@ -1,8 +1,0 @@
-﻿  stdafx.cpp
-  学生端清理器.cpp
-c:\users\leole\source\repos\学生端清理器\学生端清理器\Reg.h(7): warning C4005: “MAX_PATH”: 宏重定义
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\minwindef.h(60): note: 参见“MAX_PATH”的前一个定义
-  正在生成代码
-  All 194 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  学生端清理器.vcxproj -> C:\Users\Leole\Source\Repos\学生端清理器\Release\学生端清理器.exe

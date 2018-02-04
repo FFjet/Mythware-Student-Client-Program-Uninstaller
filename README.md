@@ -5,6 +5,9 @@
 This tool can help you uninstall it when you forget the password of Mythware Student Client Program. You can reinstall the student side program with a new password later.
 
 ## 注意事项 Tips
+ - 加粗    `Ctrl + B` 
+ - 斜体    `Ctrl + I` 
+ - 引用    `Ctrl + Q`
 -当程序出现注册表错误时，请反复运行该程序；如果反复运行无效，则重启之后重试。
 
  When registry errors occur while running, please run the program repeatedly; if it is still invalid, retry again after rebooting your computer.

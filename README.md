@@ -1,4 +1,4 @@
-# Mythware-Student-Client-Program-Uninstaller
+# Mythware Student Client Program Uninstaller
 ## 目的 Purpose
 当您忘记极域网络教室学生端的密码时，这个工具可以帮您卸载它。您可以稍后用一个新密码重新安装学生端程序。
 

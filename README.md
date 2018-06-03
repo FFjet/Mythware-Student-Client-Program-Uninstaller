@@ -19,7 +19,7 @@ This tool can help you uninstall it when you forget the password of Mythware Stu
  
  - 禁止用于商业用途
 
- Do not use it for any commercial use.
+ Do not use it for any commercial purpose.
 
 __除此之外，请遵守与 GNU GPLv3 协议相关的所有内容。__
 

@@ -32,4 +32,4 @@ __In addition, please comply with all the content related to the GNU GPLv3 proto
  
  - 记得打开“多字节字符集”选项
 
- Remember to open the `Multi-byte character set` option
+ Remember to turn on the `Multi-byte character set` option
